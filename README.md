@@ -23,6 +23,8 @@ and within it it will create a database called shoes_db.
 The database stores the book data in the shoes table that includes the country, code (unique),
 product, cost and quantity as qty. 
 
+![Image of shoes table](/images/shoes_table.jpg)
+
 ## How to run the program
 * item Clone or download the inventorysql.py file onto a local folder of your choice 
 * item Start your python environment that includes tabulate and sqlite3
@@ -33,6 +35,7 @@ product, cost and quantity as qty.
 ## How to use the program
 When the program is run the user is presented with a menu as below.
 
+![Image of shoes menu](/images/menh_items.jpg)
 
 
 The user can select the option by entering the number only. No other inouts will be accepted. 
