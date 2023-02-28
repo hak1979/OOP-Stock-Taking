@@ -42,7 +42,7 @@ The user can select the option by entering the number only. No other inputs will
 
 ### Menu 0: Exit
 When this option is selected, the database will be closed and the program will exit.
-### Menu 1:Value per item
+### Menu 1: Stock check
 Table of shoes with total values of each row displayed on screen. This shows the total stock value
 of each shoe. 
 ### Menu 2: Option to re_stock shoes with lowest quantity
