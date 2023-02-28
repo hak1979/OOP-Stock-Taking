@@ -40,11 +40,21 @@ When the program is run the user is presented with a menu as below.
 
 The user can select the option by entering the number only. No other inputs will be accepted.
 
-###Menu 0:
-###Menu 1:
-###Menu 2:
-###Menu 3:
-###Menu 4:
-###Menu 5:
-###Menu 6:
-###Menu 7:
+### Menu 0: Exit
+When this option is selected, the database will be closed and the program will exit.
+### Menu 1:Value per item
+Table of shoes with total values of each row displayed on screen. This shows the total stock value
+of each shoe. 
+### Menu 2: Option to re_stock shoes with lowest quantity
+The shoe with the lowest quantity can be re-stocked by specifying the number of shoes to be added to
+stock.
+### Menu 3: View all
+In this menu all the shoes are displaed on screen in a table.
+### Menu 4: New shoe
+The user enters the details of the new shoe to be entered into the database.
+### Menu 5: Put on sale
+The shoe with the highest quantity is put on sale. 
+### Menu 6: Search
+Allows the user to search for a shoe by code only.
+### Menu 7: Delete
+Allows the user to delete a shoe line by code only. 
