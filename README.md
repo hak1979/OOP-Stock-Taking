@@ -38,4 +38,13 @@ When the program is run the user is presented with a menu as below.
 ![Image of shoes menu](/images/menu_items.jpg)
 
 
-The user can select the option by entering the number only. No other inouts will be accepted. 
+The user can select the option by entering the number only. No other inputs will be accepted.
+
+###Menu 0:
+###Menu 1:
+###Menu 2:
+###Menu 3:
+###Menu 4:
+###Menu 5:
+###Menu 6:
+###Menu 7:
