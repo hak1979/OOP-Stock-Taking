@@ -35,7 +35,7 @@ product, cost and quantity as qty.
 ## How to use the program
 When the program is run the user is presented with a menu as below.
 
-![Image of shoes menu](/images/menh_items.jpg)
+![Image of shoes menu](/images/menu_items.jpg)
 
 
 The user can select the option by entering the number only. No other inouts will be accepted. 
